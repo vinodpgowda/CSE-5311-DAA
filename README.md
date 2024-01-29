@@ -1,6 +1,6 @@
 # Sorting Algorithms
 
-Implemention of Insertion sort, Selection sort and Bubble sort algorithms and benchmarking the runtime for each algorithm against with various input sizes.
+Implemention of Insertion sort, Selection sort and Bubble sort algorithms and benchmarking the runtime for each algorithm with various input sizes.
 
 ## System Information
 MacBook Air
