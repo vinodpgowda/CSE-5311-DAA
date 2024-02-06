@@ -1,10 +1,22 @@
-# Sorting Algorithms
+# CSE 5311 - Design and Analysis of Algorithms
 
-Implemention of Insertion sort, Selection sort and Bubble sort algorithms and benchmarking the runtime for each algorithm with various input sizes.
+Welcome to the repository for the course CSE 5311, Design and Analysis of Algorithms, where you can find all the submissions for the hands-on assignments.
 
 ## System Information
-MacBook Air
-M1, 2020  
-Chip Apple M1  
-Memory 16 GB  
-macOS Sonoma 14.2.1 (23C71)  
+
+### Hardware:
+- **Device**: MacBook Air M1, 2020
+- **Chip**: Apple M1
+- **Memory**: 16 GB
+
+### Software:
+- **Operating System**: macOS Sonoma 14.2.1 (23C71)
+- **Python Version**: 3.11.7
+
+## Homework Submissions
+
+### Hands-on 2
+- [sort.ipynb](hands-on-2/sort.ipynb)
+
+### Hands-on 3
+- [merge_sort.ipynb](hands-on-3/merge_sort.ipynb)
