@@ -15,8 +15,11 @@ Welcome to the repository for the course CSE 5311, Design and Analysis of Algori
 
 ## Homework Submissions
 
-### Hands-on 2
+### Hands-On 2
 - [sort.ipynb](hands-on-2/sort.ipynb)
 
-### Hands-on 3
+### Hands-On 3
 - [hands_on_3.ipynb](hands-on-3/hands_on_3.ipynb)
+
+### Hands-On 4
+- [hands_on_4.ipynb](hands-on-4/hands_on_4.ipynb)
