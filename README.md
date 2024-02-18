@@ -23,3 +23,6 @@ Welcome to the repository for the course CSE 5311, Design and Analysis of Algori
 
 ### Hands-On 4
 - [hands_on_4.ipynb](Hands_On_4/hands_on_4.ipynb)
+
+### Hands-On 5
+- [hands_on_5.ipynb](Hands_On_5/hands_on_5.ipynb)
